@@ -1,2 +1,9 @@
 phase-0-gps-1
 =============
+
+git clone ...
+touch ...
+git add -A
+git commit -m "..."
+git push origin master
+git checkout -b ...
